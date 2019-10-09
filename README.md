@@ -1,4 +1,4 @@
-# delay
+# Delay project info
 Delay up to the specified time
 
 ## Install
@@ -11,7 +11,7 @@ Delay up to the specified time
   ```bash
   sudo copy delay.py /usr/bin
   ```
-- In Windows: copy to any PATHs folder (not tested %) )
+- In Windows: copy to any PATHs folder (not tested :smirk: )
 
 ## Usage
 ```bash
