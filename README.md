@@ -3,9 +3,15 @@ Delay up to the specified time
 
 ## Install
 - Clone
-- Add execute rigth chmod a+x delay.py
+- Add execute right:
+  ```bash
+  chmod a+x delay.py
+  ```
 - In UNIX-like system: copy to /usr/bin
-- In Windows: copy to any PATHs folder
+  ```bash
+  sudo copy delay.py /usr/bin
+  ```
+- In Windows: copy to any PATHs folder (not tested %) )
 
 ## Usage
 ```bash
